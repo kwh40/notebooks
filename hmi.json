@@ -1,0 +1,16 @@
+{
+    "thingID": "s3i:3e7cfc9b-2fda-4c56-a4f0-b5e8f34b6da6",
+    "policyID": "s3i:3e7cfc9b-2fda-4c56-a4f0-b5e8f34b6da6",
+    "attributes": {
+        "ownedBy": "fc3ef182-5ba0-4d3d-8771-21ea07821196",
+        "name": "DZ von Adelbert",
+        "type": "component",
+        "dataModel": "fml40",
+        "allEndpoints": ["s3ibs://s3i:3e7cfc9b-2fda-4c56-a4f0-b5e8f34b6da6"]
+    },
+    "features": {
+        "class": "ml40::Thing",
+        "name": "Workshop HMI Adelbert",
+        "roles": [{"class": "ml40::Dashboard"}]
+    }
+}

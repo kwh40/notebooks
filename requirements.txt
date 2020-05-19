@@ -1,0 +1,2 @@
+pykka
+https://git.rwth-aachen.de/kwh40/s3i/-/jobs/artifacts/master/raw/public/s3i-0.4-py3-none-any.whl?job=wheel
