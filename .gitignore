@@ -1,6 +1,9 @@
 *checkpoint.ipynb
 *.pyc
 received_data/**
+!received_data/README.md
+key/**
+!key/README.md
 *.vscode
 *.code-workspace
 *.asc

@@ -1,0 +1,1 @@
+The received data is stored here.
