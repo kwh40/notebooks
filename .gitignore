@@ -3,3 +3,4 @@
 received_data/**
 *.vscode
 *.code-workspace
+*.asc
