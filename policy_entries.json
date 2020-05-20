@@ -1,41 +1,51 @@
 {
-    "nginx:b7ba639e-801d-480a-b824-11377c490dae": {
-        "type": "user dasmann workshop"
+    "subjects": {
+        "nginx:b7ba639e-801d-480a-b824-11377c490dae": {
+            "type": "user dasmann workshop"
+        },
+        "nginx:e47ec04c-b4b4-4455-a0c6-5772dfbd999d": {
+            "type": "user ettmayer workshop"
+        },
+        "nginx:0b28a3ec-000a-4925-ab3e-1d3497250e66": {
+            "type": "user gebrael workshop"
+        },
+        "nginx:38ee6593-854d-4559-a49d-89f37deb646c": {
+            "type": "user rossier workshop"
+        },
+        "nginx:6baade49-eb05-47c3-a703-3c63a1e7ce39": {
+            "type": "user ahia workshop"
+        },
+        "nginx:710972ee-31d0-4928-8ec6-91ad6371f2b0": {
+            "type": "user albrecht workshop"
+        },
+        "nginx:f9bd0a58-94ce-4068-977b-02f6ad0ac946": {
+            "type": "user grothe workshop"
+        },
+        "nginx:7748a20b-1ca0-4488-869b-cb98d2a24e30": {
+            "type": "user heinze workshop"
+        },
+        "nginx:d21196da-9426-4b49-918f-9dc332834ea0": {
+            "type": "user schluse workshop"
+        },
+        "nginx:f9bf591b-db93-4d39-82e7-cb0d9af07560": {
+            "type": "user reitz workshop"
+        },
+        "nginx:7c4c4c8e-01de-4a7e-a3d6-1f7a169bd30b": {
+            "type": "user chen workshop"
+        },
+        "nginx:56ee4e7b-33cf-4136-a1e6-96ad4e412545": {
+            "type": "user hoppen workshop"
+        },
+        "nginx:1af0884a-2b8d-476e-8a16-2b3be331907a": {
+            "type": "user gebhard workshop"
+        }
     },
-    "nginx:e47ec04c-b4b4-4455-a0c6-5772dfbd999d": {
-        "type": "user ettmayer workshop"
-    },
-    "nginx:0b28a3ec-000a-4925-ab3e-1d3497250e66": {
-        "type": "user gebrael workshop"
-    },
-    "nginx:38ee6593-854d-4559-a49d-89f37deb646c": {
-        "type": "user rossier workshop"
-    },
-    "nginx:6baade49-eb05-47c3-a703-3c63a1e7ce39": {
-        "type": "user ahia workshop"
-    },
-    "nginx:710972ee-31d0-4928-8ec6-91ad6371f2b0": {
-        "type": "user albrecht workshop"
-    },
-    "nginx:f9bd0a58-94ce-4068-977b-02f6ad0ac946": {
-        "type": "user grothe workshop"
-    },
-    "nginx:7748a20b-1ca0-4488-869b-cb98d2a24e30": {
-        "type": "user heinze workshop"
-    },
-    "nginx:d21196da-9426-4b49-918f-9dc332834ea0": {
-        "type": "user schluse workshop"
-    },
-    "nginx:f9bf591b-db93-4d39-82e7-cb0d9af07560": {
-        "type": "user reitz workshop"
-    },
-    "nginx:7c4c4c8e-01de-4a7e-a3d6-1f7a169bd30b": {
-        "type": "user chen workshop"
-    },
-    "nginx:56ee4e7b-33cf-4136-a1e6-96ad4e412545": {
-        "type": "user hoppen workshop"
-    },
-    "nginx:1af0884a-2b8d-476e-8a16-2b3be331907a": {
-        "type": "user gebhard workshop"
+    "resources": {
+        "thing:/": {
+            "grant": [
+                "READ"
+            ],
+            "revoke": []
+        }
     }
 }
