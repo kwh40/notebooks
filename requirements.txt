@@ -2,3 +2,4 @@ https://git.rwth-aachen.de/kwh40/s3i/-/jobs/artifacts/master/raw/public/s3i-0.4-
 jupyter
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
+ipywidgets
