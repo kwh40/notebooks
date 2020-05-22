@@ -3,4 +3,4 @@ jupyter
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 ipywidgets
-install git+https://github.com/kirbs-/hide_code.git@dev --upgrade
+install git+https://github.com/kirbs-/hide_code.git@dev
