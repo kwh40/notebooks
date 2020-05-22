@@ -1,4 +1,5 @@
-jupyter contrib nbextension install --user
+jupyter nbextensions_configurator enable --user
 jupyter nbextension enable collapsible_headings/main
 jupyter nbextension enable varInspector/main
-jupyter nbextensions_configurator enable --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter contrib nbextension install --user
