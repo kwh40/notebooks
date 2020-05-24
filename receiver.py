@@ -21,19 +21,12 @@ class Receiver(pykka.ThreadingActor):
         return(response.text)
 
     def start_receiving(self):
-        # def receive():
-        #    access_token = self.idp.get_token(s3i.TokenType.ACCESS_TOKEN)
-        #    headers = {'Content-Type': 'application/pgp-encrypted',
-        #               'Authorization': 'Bearer ' + access_token}
-        #    response = requests.get(
-        #        url="https://broker.s3i.vswf.dev/"+self.endpoint, headers=headers)
-        #    return(response.text)
         try:
             while True:
                 incomingMessage = self.receive()
                 if not(len(incomingMessage) == 0):
                     self.callbackActor.callback(incomingMessage)
-                    return incomingMessage
-                time.sleep(2)
+                else:
+                    time.sleep(2)
         except KeyboardInterrupt:
             print("[S3I] Stop receiving messages")
