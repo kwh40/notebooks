@@ -22,6 +22,7 @@ class Receiver(pykka.ThreadingActor):
 
     def start_receiving(self):
         try:
+            print("[S3I]: Start receiving messages.")
             while True:
                 incomingMessage = self.receive()
                 if not(len(incomingMessage) == 0):
