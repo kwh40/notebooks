@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarvestedProduction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" messageType="hpr" areaUnit="ha" diameterUnit="mm" lengthUnit="cm" volumeUnit="m3" weightUnit="kg" version="3.3" versionDate="2017-02-06" xmlns="urn:skogforsk:stanford2010">
+  <HarvestedProductionHeader>
+    <CreationDate>2018-04-13T07:03:18.0783299+02:00</CreationDate>
+    <ModificationDate>2018-04-13T07:03:18.0783299+02:00</ModificationDate>
+    <ApplicationVersionCreated>MaxiXplorer 3.14.0.33009 </ApplicationVersionCreated>
+    <ApplicationVersionModified>MaxiXplorer 3.14.0.33009 </ApplicationVersionModified>
+    <CountryCode>276</CountryCode>
+  </HarvestedProductionHeader>
+  <Machine machineCategory="Harvester">
+     <!-- ... -->
+  </Machine>
+</HarvestedProduction>
