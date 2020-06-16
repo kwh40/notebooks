@@ -18,4 +18,4 @@ def check_message_encryption(msg):
         "<": "error",
         "{": "msg",
     }
-    return switcher.get(msg[1], "Message starts with unknown character.")
+    return switcher.get(msg[1], "error")
