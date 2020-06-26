@@ -1,5 +1,6 @@
 import time
-
+import logging
+logging.basicConfig(level=logging.ERROR)
 
 def print_with_timestamp(msg):
     print(
@@ -9,8 +10,11 @@ def print_with_timestamp(msg):
     )
 
 def error_callback(message):
-    print("An Error occured:", message)
-    print("==============================================================================")
+    logging.debug(
+        "[S3I][{}]: {}".format(
+            time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), message
+        ))
+    logging.debug("==============================================================================")
 
 def check_message_encryption(msg):
     switcher = {
