@@ -28,7 +28,7 @@ def check_message_encryption(msg):
         "-": "pgp",
         "{": "msg",
     }
-    return switcher.get(msg[1], "error")
+    return switcher.get(msg[0], "error")
 
 
 def check_for_quotes(message):
