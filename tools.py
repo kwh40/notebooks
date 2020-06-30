@@ -27,8 +27,13 @@ def check_message_encryption(msg):
     return switcher.get(msg[1], "error")
 
 def check_for_quotes(message):
-    if message[0] == '"' and message[-1] == '"':
+    if message[1] == '"' or message[-1] == '"':
         return message.strip('"')
     return message
+
+def check_for_spaces(text):
+    if text[1] == " " or text[-1] == " ":
+        return text.strip()
+    return text
 
 
