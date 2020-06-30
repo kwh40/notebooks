@@ -2,6 +2,9 @@ import time
 import logging
 logging.basicConfig(level=logging.ERROR)
 
+yes = ["j", "ja", "Ja", "J" "Yes", "y", "yes", "Y"]
+no = ["n", "no", "No", "N", "nein", "Nein"]
+
 def print_with_timestamp(msg):
     print(
         "[S3I][{}]: {}".format(
@@ -22,3 +25,10 @@ def check_message_encryption(msg):
         "{": "msg",
     }
     return switcher.get(msg[1], "error")
+
+def check_for_quotes(message):
+    if message[0] == '"' and message[-1] == '"':
+        return message.strip('"')
+    return message
+
+
