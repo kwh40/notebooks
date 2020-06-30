@@ -32,12 +32,8 @@ def check_message_encryption(msg):
 
 
 def check_for_quotes(message):
-    if message[0] == '"' or message[-1] == '"':
-        return message.strip('"')
-    return message
+    return message.strip('," ')
 
 
 def check_for_spaces(text):
-    if text[0] == " " or text[-1] == " ":
-        return text.strip()
-    return text
+    return text.strip('," ')
