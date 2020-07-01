@@ -1,6 +1,6 @@
 import time
 import logging
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.ERROR)
 
 yes = ["j", "ja", "Ja", "J" "Yes", "y", "yes", "Y"]
 no = ["n", "no", "No", "N", "nein", "Nein"]
