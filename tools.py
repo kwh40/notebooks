@@ -4,8 +4,6 @@ logging.basicConfig(level=logging.ERROR)
 
 yes = ["j", "ja", "Ja", "J" "Yes", "y", "yes", "Y"]
 no = ["n", "no", "No", "N", "nein", "Nein"]
-participants = ["ruecker", "kopetzky", "balindt", "kaulich", "ziesak",
-                "fien", "koch", "gebhard", "arboix", "user1_workshop", "user2_workshop", "user3_workshop", "wiepcke", "schluse", "rossmann"]
 
 
 def print_with_timestamp(msg):
