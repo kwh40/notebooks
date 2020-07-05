@@ -4,6 +4,9 @@ logging.basicConfig(level=logging.ERROR)
 
 yes = ["j", "ja", "Ja", "J" "Yes", "y", "yes", "Y"]
 no = ["n", "no", "No", "N", "nein", "Nein"]
+up = ["u", "U", "up", "Up", "ShieldUp", "shieldUp", "shieldup", "Shieldup"]
+down = ["d", "D", "down", "Down", "ShieldDown",
+        "shieldDown", "shielddown", "Shielddown"]
 
 
 def print_with_timestamp(msg):
