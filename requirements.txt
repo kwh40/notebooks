@@ -3,3 +3,4 @@ jupyter
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 ipywidgets
+https://git.rwth-aachen.de/kwh40/fml40-reference-implementation/-/jobs/artifacts/dev_chen/raw/public/ml-0.1-py3-none-any.whl?job=wheel
