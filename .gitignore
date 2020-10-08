@@ -7,6 +7,5 @@ key/**
 *.vscode
 *.code-workspace
 *.asc
-configs/*
 miniTractor_data.py
 miniTractor_service.py
