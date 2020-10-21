@@ -1,5 +1,5 @@
-#https://git.rwth-aachen.de/kwh40/s3i/-/jobs/artifacts/master/raw/public/s3i-0.4-py3-none-any.whl?job=wheel
-https://git.rwth-aachen.de/kwh40/s3i/-/jobs/1048589/artifacts/raw/public/s3i-0.4-py3-none-any.whl
+https://git.rwth-aachen.de/kwh40/s3i/-/jobs/artifacts/master/raw/public/s3i-0.4-py3-none-any.whl?job=wheel
+#https://git.rwth-aachen.de/kwh40/s3i/-/jobs/1048589/artifacts/raw/public/s3i-0.4-py3-none-any.whl
 jupyter
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
