@@ -305,3 +305,101 @@
 2020-10-27 12:04:37,658 - INFO - my_harvester: Job with ID s3i:ad6c71b8-465d-4c43-bdb9-06608cdedbfe has been accepted
 2020-10-27 12:04:58,428 - INFO - my_harvester: Checking the job status of job s3i:ad6c71b8-465d-4c43-bdb9-06608cdedbfe
 2020-10-27 12:04:58,428 - INFO - my_harvester: Job s3i:ad6c71b8-465d-4c43-bdb9-06608cdedbfe is now in status InProgress
+2020-10-27 13:46:48,218 - DEBUG - my_harvester: Creating ditigtal twin my_harvester with id s3i:d1ed48ca-cf69-4ac6-99eb-8b1b025ba43a
+2020-10-27 13:46:48,235 - DEBUG - my_harvester: Adding roles: fml40::Harvester
+2020-10-27 13:46:48,236 - DEBUG - my_harvester: Adding feature: fml40::ProvidesProductionData
+2020-10-27 13:46:48,237 - DEBUG - my_harvester: Adding feature: fml40::AcceptsFellingJobs
+2020-10-27 13:46:48,238 - DEBUG - my_harvester: Adding feature: ml40::Composite
+2020-10-27 13:46:48,239 - DEBUG - my_harvester: Creating ditigtal twin my_engine with id 
+2020-10-27 13:46:48,241 - DEBUG - my_harvester: Adding roles: ml40::Engine
+2020-10-27 13:46:48,242 - DEBUG - my_harvester: Adding feature: ml40::RotationalSpeed
+2020-10-27 13:46:48,244 - DEBUG - my_harvester: Creating ditigtal twin my_bord_computer with id 
+2020-10-27 13:46:48,245 - DEBUG - my_harvester: Adding roles: ml40::MachineUI
+2020-10-27 13:46:48,270 - DEBUG - my_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-10-27 13:47:32,961 - INFO - my_harvester: Checking if the felling job can be accepted.
+2020-10-27 13:47:32,961 - DEBUG - my_harvester: Adding feature: ml40::FellingJob
+2020-10-27 13:47:32,961 - DEBUG - my_harvester: Adding subfeature: ml40::Assortment
+2020-10-27 13:47:32,961 - DEBUG - my_harvester: Adding subfeature: ml40::ThicknessClass
+2020-10-27 13:47:32,961 - DEBUG - my_harvester: Adding subfeature: ml40::WoodQuality
+2020-10-27 13:47:32,972 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestingParameters
+2020-10-27 13:47:32,973 - DEBUG - my_harvester: Adding subfeature: ml40::TreeType
+2020-10-27 13:47:32,973 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestedVolume
+2020-10-27 13:47:32,973 - INFO - my_harvester: Job with ID s3i:2c1d22c8-e5a7-4b88-894f-7bc6b30c58ad has been accepted
+2020-10-27 14:21:47,063 - INFO - my_harvester: Checking if the felling job can be accepted.
+2020-10-27 14:21:47,063 - DEBUG - my_harvester: Adding feature: ml40::FellingJob
+2020-10-27 14:21:47,063 - DEBUG - my_harvester: Adding subfeature: ml40::Assortment
+2020-10-27 14:21:47,063 - DEBUG - my_harvester: Adding subfeature: ml40::ThicknessClass
+2020-10-27 14:21:47,075 - DEBUG - my_harvester: Adding subfeature: ml40::WoodQuality
+2020-10-27 14:21:47,077 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestingParameters
+2020-10-27 14:21:47,079 - DEBUG - my_harvester: Adding subfeature: ml40::TreeType
+2020-10-27 14:21:47,080 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestedVolume
+2020-10-27 14:21:47,081 - INFO - my_harvester: Job with ID s3i:92b2f239-d2d7-4ae0-859d-3f1d20daf3f4 has been accepted
+2020-10-27 14:22:07,357 - INFO - my_harvester: Checking if the felling job can be accepted.
+2020-10-27 14:22:07,357 - DEBUG - my_harvester: Adding feature: ml40::FellingJob
+2020-10-27 14:22:07,364 - DEBUG - my_harvester: Adding subfeature: ml40::Assortment
+2020-10-27 14:22:07,366 - DEBUG - my_harvester: Adding subfeature: ml40::ThicknessClass
+2020-10-27 14:22:07,367 - DEBUG - my_harvester: Adding subfeature: ml40::WoodQuality
+2020-10-27 14:22:07,368 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestingParameters
+2020-10-27 14:22:07,369 - DEBUG - my_harvester: Adding subfeature: ml40::TreeType
+2020-10-27 14:22:07,371 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestedVolume
+2020-10-27 14:22:07,372 - INFO - my_harvester: Job with ID s3i:92b2f239-d2d7-4ae0-859d-3f1d20daf3f4 has been rejected, because this job was already accepted
+2020-10-27 14:35:51,270 - DEBUG - my_harvester: Creating ditigtal twin my_harvester with id s3i:d1ed48ca-cf69-4ac6-99eb-8b1b025ba43a
+2020-10-27 14:35:51,274 - DEBUG - my_harvester: Adding roles: fml40::Harvester
+2020-10-27 14:35:51,275 - DEBUG - my_harvester: Adding feature: fml40::ProvidesProductionData
+2020-10-27 14:35:51,276 - DEBUG - my_harvester: Adding feature: fml40::AcceptsFellingJobs
+2020-10-27 14:35:51,278 - DEBUG - my_harvester: Adding feature: ml40::Composite
+2020-10-27 14:35:51,279 - DEBUG - my_harvester: Creating ditigtal twin my_engine with id 
+2020-10-27 14:35:51,280 - DEBUG - my_harvester: Adding roles: ml40::Engine
+2020-10-27 14:35:51,282 - DEBUG - my_harvester: Adding feature: ml40::RotationalSpeed
+2020-10-27 14:35:51,284 - DEBUG - my_harvester: Creating ditigtal twin my_bord_computer with id 
+2020-10-27 14:35:51,285 - DEBUG - my_harvester: Adding roles: ml40::MachineUI
+2020-10-27 14:35:51,307 - DEBUG - my_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-10-27 14:36:43,667 - INFO - my_harvester: Checking if the felling job can be accepted.
+2020-10-27 14:36:43,684 - DEBUG - my_harvester: Adding feature: ml40::FellingJob
+2020-10-27 14:36:43,686 - DEBUG - my_harvester: Adding subfeature: ml40::Assortment
+2020-10-27 14:36:43,689 - DEBUG - my_harvester: Adding subfeature: ml40::ThicknessClass
+2020-10-27 14:36:43,690 - DEBUG - my_harvester: Adding subfeature: ml40::WoodQuality
+2020-10-27 14:36:43,690 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestingParameters
+2020-10-27 14:36:43,690 - DEBUG - my_harvester: Adding subfeature: ml40::TreeType
+2020-10-27 14:36:43,690 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestedVolume
+2020-10-27 14:36:43,690 - INFO - my_harvester: Job with ID s3i:3cba879b-2e29-4b0c-b711-b7fc9b7b7c52 has been accepted
+2020-10-27 14:37:18,193 - INFO - my_harvester: Checking if i can remove the job s3i:3cba879b-2e29-4b0c-b711-b7fc9b7b7c52
+2020-10-27 14:37:18,193 - INFO - my_harvester: Job s3i:3cba879b-2e29-4b0c-b711-b7fc9b7b7c52 removed
+2020-10-27 14:40:10,034 - INFO - my_harvester: Checking if the felling job can be accepted.
+2020-10-27 14:40:10,034 - DEBUG - my_harvester: Adding feature: ml40::FellingJob
+2020-10-27 14:40:10,034 - DEBUG - my_harvester: Adding subfeature: ml40::Assortment
+2020-10-27 14:40:10,034 - DEBUG - my_harvester: Adding subfeature: ml40::ThicknessClass
+2020-10-27 14:40:10,045 - DEBUG - my_harvester: Adding subfeature: ml40::WoodQuality
+2020-10-27 14:40:10,045 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestingParameters
+2020-10-27 14:40:10,045 - DEBUG - my_harvester: Adding subfeature: ml40::TreeType
+2020-10-27 14:40:10,045 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestedVolume
+2020-10-27 14:40:10,045 - INFO - my_harvester: Job with ID s3i:771e956d-3935-4b87-88e3-b437b5b5651c has been accepted
+2020-10-27 14:42:12,492 - INFO - my_harvester: Checking if the felling job can be accepted.
+2020-10-27 14:42:12,492 - DEBUG - my_harvester: Adding feature: ml40::FellingJob
+2020-10-27 14:42:12,492 - DEBUG - my_harvester: Adding subfeature: ml40::Assortment
+2020-10-27 14:42:12,492 - DEBUG - my_harvester: Adding subfeature: ml40::ThicknessClass
+2020-10-27 14:42:12,492 - DEBUG - my_harvester: Adding subfeature: ml40::WoodQuality
+2020-10-27 14:42:12,492 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestingParameters
+2020-10-27 14:42:12,492 - DEBUG - my_harvester: Adding subfeature: ml40::TreeType
+2020-10-27 14:42:12,492 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestedVolume
+2020-10-27 14:42:12,492 - INFO - my_harvester: Job with ID s3i:e8d88e89-fc3e-4d3d-a51c-7957d80487ef has been accepted
+2020-10-27 14:45:14,864 - DEBUG - my_harvester: Creating ditigtal twin my_harvester with id s3i:d1ed48ca-cf69-4ac6-99eb-8b1b025ba43a
+2020-10-27 14:45:14,868 - DEBUG - my_harvester: Adding roles: fml40::Harvester
+2020-10-27 14:45:14,869 - DEBUG - my_harvester: Adding feature: fml40::ProvidesProductionData
+2020-10-27 14:45:14,870 - DEBUG - my_harvester: Adding feature: fml40::AcceptsFellingJobs
+2020-10-27 14:45:14,871 - DEBUG - my_harvester: Adding feature: ml40::Composite
+2020-10-27 14:45:14,873 - DEBUG - my_harvester: Creating ditigtal twin my_engine with id 
+2020-10-27 14:45:14,874 - DEBUG - my_harvester: Adding roles: ml40::Engine
+2020-10-27 14:45:14,875 - DEBUG - my_harvester: Adding feature: ml40::RotationalSpeed
+2020-10-27 14:45:14,876 - DEBUG - my_harvester: Creating ditigtal twin my_bord_computer with id 
+2020-10-27 14:45:14,878 - DEBUG - my_harvester: Adding roles: ml40::MachineUI
+2020-10-27 14:45:14,902 - DEBUG - my_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-10-27 14:50:54,387 - INFO - my_harvester: Checking if the felling job can be accepted.
+2020-10-27 14:50:54,387 - DEBUG - my_harvester: Adding feature: ml40::FellingJob
+2020-10-27 14:50:54,387 - DEBUG - my_harvester: Adding subfeature: ml40::Assortment
+2020-10-27 14:50:54,387 - DEBUG - my_harvester: Adding subfeature: ml40::ThicknessClass
+2020-10-27 14:50:54,387 - DEBUG - my_harvester: Adding subfeature: ml40::WoodQuality
+2020-10-27 14:50:54,387 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestingParameters
+2020-10-27 14:50:54,387 - DEBUG - my_harvester: Adding subfeature: ml40::TreeType
+2020-10-27 14:50:54,387 - DEBUG - my_harvester: Adding subfeature: ml40::HarvestedVolume
+2020-10-27 14:50:54,403 - INFO - my_harvester: Job with ID s3i:7bee199c-e83a-4284-8a08-94716939ec56 has been accepted
