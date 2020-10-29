@@ -1,0 +1,3 @@
+2020-10-28 22:08:58,555 - DEBUG - my_cloud_harvester: Creating ditigtal twin my_cloud_harvester with id s3i:bb9362e0-afc5-4c58-a9ac-3d29d0fa5700
+2020-10-28 22:08:58,560 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
+2020-10-28 22:08:58,561 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed

@@ -1,0 +1,1 @@
+{"thingId": "s3i:bb9362e0-afc5-4c58-a9ac-3d29d0fa5700", "policyId": "s3i:bb9362e0-afc5-4c58-a9ac-3d29d0fa5700", "attributes": {"class": "ml40::Thing", "name": "my_cloud_harvester", "roles": [{"class": "fml40::Harvester"}], "features": [{"class": "ml40::RotationalSpeed", "rpm": 2005}]}}
