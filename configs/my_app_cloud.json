@@ -1,1 +1,0 @@
-{"thingId": "s3i:61950a6d-f6fb-40a7-84c5-47320ea85baf", "policyId": "s3i:61950a6d-f6fb-40a7-84c5-47320ea85baf", "attributes": {"class": "ml40::Thing", "name": "my_app_cloud", "roles": [{"class": "ml40::App"}], "features": []}}

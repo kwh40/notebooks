@@ -13,3 +13,10 @@
 2020-10-30 16:25:34,598 - DEBUG - my_app_edge: Adding subfeature: fml40::HarvestingParameters
 2020-10-30 16:25:34,599 - DEBUG - my_app_edge: Adding subfeature: fml40::TreeType
 2020-10-30 16:25:34,600 - DEBUG - my_app_edge: Adding subfeature: fml40::HarvestedVolume
+2020-11-02 10:21:21,571 - DEBUG - my_app_edge: Adding feature: fml40::FellingJob
+2020-11-02 10:21:21,572 - DEBUG - my_app_edge: Adding subfeature: fml40::Assortment
+2020-11-02 10:21:21,574 - DEBUG - my_app_edge: Adding subfeature: fml40::ThicknessClass
+2020-11-02 10:21:21,575 - DEBUG - my_app_edge: Adding subfeature: fml40::WoodQuality
+2020-11-02 10:21:21,576 - DEBUG - my_app_edge: Adding subfeature: fml40::HarvestingParameters
+2020-11-02 10:21:21,577 - DEBUG - my_app_edge: Adding subfeature: fml40::TreeType
+2020-11-02 10:21:21,578 - DEBUG - my_app_edge: Adding subfeature: fml40::HarvestedVolume

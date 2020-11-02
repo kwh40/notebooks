@@ -92,3 +92,26 @@
 2020-10-30 16:26:11,988 - INFO - my_edge_harvester: Job with ID s3i:8c02300c-9e61-4f8c-aded-86862b5361c3 has been accepted
 2020-10-30 16:26:39,000 - INFO - my_edge_harvester: Checking the job status of job s3i:8c02300c-9e61-4f8c-aded-86862b5361c3
 2020-10-30 16:26:39,000 - INFO - my_edge_harvester: Job s3i:8c02300c-9e61-4f8c-aded-86862b5361c3 is now in status InProgress
+2020-11-02 10:20:30,515 - DEBUG - my_edge_harvester: Creating ditigtal twin my_edge_harvester with id s3i:ba4a0326-4264-40b2-9f88-e2a78cf5c653
+2020-11-02 10:20:30,519 - DEBUG - my_edge_harvester: Adding roles: fml40::Harvester
+2020-11-02 10:20:30,520 - DEBUG - my_edge_harvester: Adding feature: fml40::ProvidesProductionData
+2020-11-02 10:20:30,521 - DEBUG - my_edge_harvester: Adding feature: fml40::AcceptsFellingJobs
+2020-11-02 10:20:30,522 - DEBUG - my_edge_harvester: Adding feature: ml40::Location
+2020-11-02 10:20:30,523 - DEBUG - my_edge_harvester: Adding feature: ml40::Composite
+2020-11-02 10:20:30,526 - DEBUG - my_edge_harvester: Creating ditigtal twin my_engine with id 
+2020-11-02 10:20:30,527 - DEBUG - my_edge_harvester: Adding roles: ml40::Engine
+2020-11-02 10:20:30,528 - DEBUG - my_edge_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-02 10:20:30,529 - DEBUG - my_edge_harvester: Creating ditigtal twin my_bord_computer with id 
+2020-11-02 10:20:30,530 - DEBUG - my_edge_harvester: Adding roles: ml40::MachineUI
+2020-11-02 10:20:30,549 - DEBUG - my_edge_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-11-02 10:26:44,089 - INFO - my_edge_harvester: Checking if the felling job can be accepted.
+2020-11-02 10:26:44,090 - DEBUG - my_edge_harvester: Adding feature: ml40::FellingJob
+2020-11-02 10:26:44,091 - DEBUG - my_edge_harvester: Adding subfeature: ml40::Assortment
+2020-11-02 10:26:44,092 - DEBUG - my_edge_harvester: Adding subfeature: ml40::ThicknessClass
+2020-11-02 10:26:44,094 - DEBUG - my_edge_harvester: Adding subfeature: ml40::WoodQuality
+2020-11-02 10:26:44,094 - DEBUG - my_edge_harvester: Adding subfeature: ml40::HarvestingParameters
+2020-11-02 10:26:44,095 - DEBUG - my_edge_harvester: Adding subfeature: ml40::TreeType
+2020-11-02 10:26:44,096 - DEBUG - my_edge_harvester: Adding subfeature: ml40::HarvestedVolume
+2020-11-02 10:26:44,098 - INFO - my_edge_harvester: Job with ID s3i:d9811b2c-aa05-4c2c-ac34-4cb7e4bf71d5 has been accepted
+2020-11-02 10:27:06,305 - INFO - my_edge_harvester: Checking the job status of job s3i:d9811b2c-aa05-4c2c-ac34-4cb7e4bf71d5
+2020-11-02 10:27:06,307 - INFO - my_edge_harvester: Job s3i:d9811b2c-aa05-4c2c-ac34-4cb7e4bf71d5 is now in status InProgress
