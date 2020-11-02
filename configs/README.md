@@ -1,0 +1,1 @@
+In this folder the configuration file for digital twin is located
