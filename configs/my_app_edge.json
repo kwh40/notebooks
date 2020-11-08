@@ -1,0 +1,1 @@
+{"thingId": "s3i:7f46a255-3245-439e-84f0-090f0b221965", "policyId": "s3i:7f46a255-3245-439e-84f0-090f0b221965", "attributes": {"class": "ml40::Thing", "name": "my_app_edge", "roles": [{"class": "ml40::App"}], "features": []}}

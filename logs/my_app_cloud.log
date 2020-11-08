@@ -1,0 +1,4 @@
+2020-11-08 12:16:02,702 - DEBUG - my_app_cloud: Build digital twin my_app_cloud with id s3i:7f46a255-3245-439e-84f0-090f0b221965
+2020-11-08 12:16:02,704 - DEBUG - my_app_cloud: Adding roles: ml40::App
+2020-11-08 16:00:47,057 - DEBUG - my_app_cloud: Build digital twin my_app_cloud with id s3i:7f46a255-3245-439e-84f0-090f0b221965
+2020-11-08 16:00:47,059 - DEBUG - my_app_cloud: Adding roles: ml40::App

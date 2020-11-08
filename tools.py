@@ -8,8 +8,8 @@ up = ["u", "U", "up", "Up", "ShieldUp", "shieldUp", "shieldup", "Shieldup"]
 down = ["d", "D", "down", "Down", "ShieldDown",
         "shieldDown", "shielddown", "Shielddown"]
 
-hmi_id = "s3i:a44bd6dc-c607-4574-9b16-cf8579819356"
-hmi_secret = "970ebe57-7dfb-4090-8c38-4b44111d5288"
+configuration_app_id = "s3i:a44bd6dc-c607-4574-9b16-cf8579819356"
+configuration_app_secret = "970ebe57-7dfb-4090-8c38-4b44111d5288"
 
 def print_with_timestamp(msg):
     print(

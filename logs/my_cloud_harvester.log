@@ -10,3 +10,27 @@
 2020-11-02 10:01:31,023 - DEBUG - my_cloud_harvester: Creating ditigtal twin my_cloud_harvester with id s3i:622e5b92-724e-4864-85d4-9bcf8350e42d
 2020-11-02 10:01:31,027 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
 2020-11-02 10:01:31,029 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-07 17:08:32,465 - DEBUG - my_cloud_harvester: Build digital twin my_cloud_harvester with id s3i:080ef045-b727-4654-a2b0-8c6d0155ed1d
+2020-11-07 17:08:32,531 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
+2020-11-07 17:08:32,537 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-07 17:22:22,790 - DEBUG - my_cloud_harvester: Build digital twin my_cloud_harvester with id s3i:e50a2360-3576-44bb-b091-cf555401386a
+2020-11-07 17:22:22,795 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
+2020-11-07 17:22:22,797 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-07 22:15:19,931 - DEBUG - my_cloud_harvester: Build digital twin my_cloud_harvester with id s3i:c5e2b47f-6748-4273-8ae5-f4959884614e
+2020-11-07 22:15:19,935 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
+2020-11-07 22:15:19,936 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-08 11:51:26,519 - DEBUG - my_cloud_harvester: Build digital twin my_cloud_harvester with id s3i:23a1bd86-69c0-44c2-a09a-140e549a20c9
+2020-11-08 11:51:26,519 - DEBUG - my_cloud_harvester: Build digital twin my_cloud_harvester with id s3i:23a1bd86-69c0-44c2-a09a-140e549a20c9
+2020-11-08 11:51:26,534 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
+2020-11-08 11:51:26,534 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
+2020-11-08 11:51:26,535 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-08 11:51:26,535 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-08 12:15:38,533 - DEBUG - my_cloud_harvester: Build digital twin my_cloud_harvester with id s3i:52c258d4-9171-454e-a029-6b8109ad9920
+2020-11-08 12:15:38,535 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
+2020-11-08 12:15:38,537 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-08 15:12:47,996 - DEBUG - my_cloud_harvester: Build digital twin my_cloud_harvester with id s3i:605d143e-35ec-4f84-8143-68bbe5465390
+2020-11-08 15:12:47,999 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
+2020-11-08 15:12:48,000 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-08 15:59:24,668 - DEBUG - my_cloud_harvester: Build digital twin my_cloud_harvester with id s3i:9776ff48-8fbf-4609-94ef-87c8066ce85a
+2020-11-08 15:59:24,681 - DEBUG - my_cloud_harvester: Adding roles: fml40::Harvester
+2020-11-08 15:59:24,682 - DEBUG - my_cloud_harvester: Adding feature: ml40::RotationalSpeed
