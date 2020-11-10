@@ -1,1 +1,0 @@
-{"thingId": "s3i:f88c91ab-3fa3-48a3-a23d-e78fafd06acf", "policyId": "s3i:f88c91ab-3fa3-48a3-a23d-e78fafd06acf", "attributes": {"class": "ml40::Thing", "name": "my HMI", "roles": [{"class": "ml40::HMI"}], "features": []}}
