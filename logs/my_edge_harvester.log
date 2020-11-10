@@ -217,3 +217,74 @@
 2020-11-08 16:04:07,677 - INFO - my_edge_harvester: Job with ID s3i:e0b60a8a-5b9b-40f0-bd45-ab99322d7d3b has been accepted
 2020-11-08 16:04:28,421 - INFO - my_edge_harvester: Checking the job status of job s3i:e0b60a8a-5b9b-40f0-bd45-ab99322d7d3b
 2020-11-08 16:04:28,423 - INFO - my_edge_harvester: Job s3i:e0b60a8a-5b9b-40f0-bd45-ab99322d7d3b is now in status InProgress
+2020-11-09 22:57:09,130 - INFO - my_edge_harvester: Build digital twin my_edge_harvester with id s3i:75e18514-9827-481b-8bfd-e01c13c04d1a
+2020-11-09 22:57:09,136 - INFO - my_edge_harvester: Adding roles: fml40::Harvester
+2020-11-09 22:57:09,137 - INFO - my_edge_harvester: Adding feature: fml40::ProvidesProductionData
+2020-11-09 22:57:09,139 - INFO - my_edge_harvester: Adding feature: fml40::AcceptsFellingJobs
+2020-11-09 22:57:09,141 - INFO - my_edge_harvester: Adding feature: ml40::Location
+2020-11-09 22:57:09,142 - INFO - my_edge_harvester: Adding feature: ml40::Composite
+2020-11-09 22:57:09,143 - INFO - my_edge_harvester: Build digital twin my_engine with id 
+2020-11-09 22:57:09,144 - INFO - my_edge_harvester: Adding roles: ml40::Engine
+2020-11-09 22:57:09,145 - INFO - my_edge_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-09 22:57:09,146 - INFO - my_edge_harvester: Build digital twin my_bord_computer with id 
+2020-11-09 22:57:09,147 - INFO - my_edge_harvester: Adding roles: ml40::MachineUI
+2020-11-09 22:57:09,182 - INFO - my_edge_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-11-09 22:57:33,070 - INFO - my_edge_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-11-09 23:04:40,623 - INFO - my_edge_harvester: Build digital twin my_edge_harvester with id s3i:75e18514-9827-481b-8bfd-e01c13c04d1a
+2020-11-09 23:04:40,624 - INFO - my_edge_harvester: Adding roles: fml40::Harvester
+2020-11-09 23:04:40,625 - INFO - my_edge_harvester: Adding feature: fml40::ProvidesProductionData
+2020-11-09 23:04:40,627 - INFO - my_edge_harvester: Adding feature: fml40::AcceptsFellingJobs
+2020-11-09 23:04:40,628 - INFO - my_edge_harvester: Adding feature: ml40::Location
+2020-11-09 23:04:40,629 - INFO - my_edge_harvester: Adding feature: ml40::Composite
+2020-11-09 23:04:40,629 - INFO - my_edge_harvester: Build digital twin my_engine with id 
+2020-11-09 23:04:40,630 - INFO - my_edge_harvester: Adding roles: ml40::Engine
+2020-11-09 23:04:40,632 - INFO - my_edge_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-09 23:04:40,633 - INFO - my_edge_harvester: Build digital twin my_bord_computer with id 
+2020-11-09 23:04:40,634 - INFO - my_edge_harvester: Adding roles: ml40::MachineUI
+2020-11-09 23:04:40,669 - INFO - my_edge_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-11-09 23:06:01,798 - INFO - my_edge_harvester: Checking if the felling job can be accepted.
+2020-11-09 23:10:37,813 - INFO - my_edge_harvester: Build digital twin my_edge_harvester with id s3i:75e18514-9827-481b-8bfd-e01c13c04d1a
+2020-11-09 23:10:37,814 - INFO - my_edge_harvester: Adding roles: fml40::Harvester
+2020-11-09 23:10:37,816 - INFO - my_edge_harvester: Adding feature: fml40::ProvidesProductionData
+2020-11-09 23:10:37,817 - INFO - my_edge_harvester: Adding feature: fml40::AcceptsFellingJobs
+2020-11-09 23:10:37,820 - INFO - my_edge_harvester: Adding feature: ml40::Location
+2020-11-09 23:10:37,821 - INFO - my_edge_harvester: Adding feature: ml40::Composite
+2020-11-09 23:10:37,822 - INFO - my_edge_harvester: Build digital twin my_engine with id 
+2020-11-09 23:10:37,823 - INFO - my_edge_harvester: Adding roles: ml40::Engine
+2020-11-09 23:10:37,824 - INFO - my_edge_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-09 23:10:37,825 - INFO - my_edge_harvester: Build digital twin my_bord_computer with id 
+2020-11-09 23:10:37,827 - INFO - my_edge_harvester: Adding roles: ml40::MachineUI
+2020-11-09 23:10:37,859 - INFO - my_edge_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-11-09 23:20:34,870 - INFO - my_edge_harvester: Build digital twin my_edge_harvester with id s3i:75e18514-9827-481b-8bfd-e01c13c04d1a
+2020-11-09 23:20:34,872 - INFO - my_edge_harvester: Adding roles: fml40::Harvester
+2020-11-09 23:20:34,872 - INFO - my_edge_harvester: Adding feature: fml40::ProvidesProductionData
+2020-11-09 23:20:34,874 - INFO - my_edge_harvester: Adding feature: fml40::AcceptsFellingJobs
+2020-11-09 23:20:34,875 - INFO - my_edge_harvester: Adding feature: ml40::Location
+2020-11-09 23:20:34,876 - INFO - my_edge_harvester: Adding feature: ml40::Composite
+2020-11-09 23:20:34,878 - INFO - my_edge_harvester: Build digital twin my_engine with id 
+2020-11-09 23:20:34,879 - INFO - my_edge_harvester: Adding roles: ml40::Engine
+2020-11-09 23:20:34,880 - INFO - my_edge_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-09 23:20:34,880 - INFO - my_edge_harvester: Build digital twin my_bord_computer with id 
+2020-11-09 23:20:34,882 - INFO - my_edge_harvester: Adding roles: ml40::MachineUI
+2020-11-09 23:20:34,915 - INFO - my_edge_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-11-09 23:25:42,668 - INFO - my_edge_harvester: Build digital twin my_edge_harvester with id s3i:75e18514-9827-481b-8bfd-e01c13c04d1a
+2020-11-09 23:25:42,670 - INFO - my_edge_harvester: Adding roles: fml40::Harvester
+2020-11-09 23:25:42,671 - INFO - my_edge_harvester: Adding feature: fml40::ProvidesProductionData
+2020-11-09 23:25:42,673 - INFO - my_edge_harvester: Adding feature: fml40::AcceptsFellingJobs
+2020-11-09 23:25:42,674 - INFO - my_edge_harvester: Adding feature: ml40::Location
+2020-11-09 23:25:42,675 - INFO - my_edge_harvester: Adding feature: ml40::Composite
+2020-11-09 23:25:42,676 - INFO - my_edge_harvester: Build digital twin my_engine with id 
+2020-11-09 23:25:42,677 - INFO - my_edge_harvester: Adding roles: ml40::Engine
+2020-11-09 23:25:42,678 - INFO - my_edge_harvester: Adding feature: ml40::RotationalSpeed
+2020-11-09 23:25:42,680 - INFO - my_edge_harvester: Build digital twin my_bord_computer with id 
+2020-11-09 23:25:42,682 - INFO - my_edge_harvester: Adding roles: ml40::MachineUI
+2020-11-09 23:25:42,714 - INFO - my_edge_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-11-09 23:27:47,398 - INFO - my_edge_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-11-09 23:28:46,115 - INFO - my_edge_harvester: Implementation object is added into the functionality fml40::AcceptsFellingJobs
+2020-11-09 23:29:32,079 - INFO - my_edge_harvester: Adding feature: ml40::FellingJob
+2020-11-09 23:29:32,080 - INFO - my_edge_harvester: Adding subfeature: ml40::Assortment
+2020-11-09 23:29:32,081 - INFO - my_edge_harvester: Adding subfeature: ml40::ThicknessClass
+2020-11-09 23:29:32,082 - INFO - my_edge_harvester: Adding subfeature: ml40::WoodQuality
+2020-11-09 23:29:32,083 - INFO - my_edge_harvester: Adding subfeature: ml40::HarvestingParameters
+2020-11-09 23:29:32,084 - INFO - my_edge_harvester: Adding subfeature: ml40::TreeType
+2020-11-09 23:29:32,085 - INFO - my_edge_harvester: Adding subfeature: ml40::HarvestedVolume
