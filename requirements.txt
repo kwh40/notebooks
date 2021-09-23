@@ -1,7 +1,7 @@
-https://git.rwth-aachen.de/kwh40/s3i/-/jobs/artifacts/master/raw/public/s3i-0.4-py3-none-any.whl?job=wheel
-#https://git.rwth-aachen.de/kwh40/s3i/-/jobs/1069762/artifacts/raw/public/s3i-0.4-py3-none-any.whl
+https://git.rwth-aachen.de/kwh40/s3i/-/jobs/artifacts/master/raw/public/s3i-0.5.1-py3-none-any.whl?job=wheel
 jupyter
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 ipywidgets
-https://git.rwth-aachen.de/kwh40/fml40-reference-implementation/-/jobs/artifacts/master/raw/public/ml-0.1-py3-none-any.whl?job=wheel
+https://git.rwth-aachen.de/kwh40/fml40-reference-implementation/-/jobs/artifacts/master/raw/public/fml40_reference_implementation-0.1.2-py3-none-any.whl?job=wheel
+
